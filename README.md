@@ -1,7 +1,7 @@
 ### Hello 👋
 
-My name is Lucas Rodrigues, i have 28 year old. Working since 2012 on ERP software area.
-Right now, i'm looking to development my own tool, for small and medium busniess.
+My name is Lucas Rodrigues, i have 29 year old. Working since 2012 on ERP software area.
+Right now, i'm looking to development my own tool, for small business.
 <!--
 **gordolucas88/gordolucas88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
